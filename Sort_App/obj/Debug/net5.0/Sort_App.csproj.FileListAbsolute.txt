@@ -1,0 +1,16 @@
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\bin\Debug\net5.0\Sort_App.exe
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\bin\Debug\net5.0\Sort_App.deps.json
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\bin\Debug\net5.0\Sort_App.runtimeconfig.json
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\bin\Debug\net5.0\Sort_App.runtimeconfig.dev.json
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\bin\Debug\net5.0\Sort_App.dll
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\bin\Debug\net5.0\ref\Sort_App.dll
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\bin\Debug\net5.0\Sort_App.pdb
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.csproj.AssemblyReference.cache
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.AssemblyInfoInputs.cache
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.AssemblyInfo.cs
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.csproj.CoreCompileInputs.cache
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.dll
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\ref\Sort_App.dll
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.pdb
+C:\Users\Gulnaz.Sakhapova\source\repos\Sort_App\Sort_App\obj\Debug\net5.0\Sort_App.genruntimeconfig.cache
