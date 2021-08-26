@@ -1,0 +1,24 @@
+﻿@using WebApplication2.Data.Modeles
+@model IEnumerable<Cars>
+@{
+    Layout = null;
+}
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>List</title>
+    </head>
+    <body>
+        <h1>Все автомобили</h1>
+        <h3>@ViewBag.Category</h3>
+        @{ 
+            foreach(var car in Model)
+            {
+                <div>
+                    <h2>Модель: @car.name</h2>
+                    <p>Цена:@car.price.ToString("c")</p>
+                </div>
+            }
+        }
+    </body>
+</html>

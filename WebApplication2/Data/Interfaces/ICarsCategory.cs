@@ -6,7 +6,7 @@ using WebApplication2.Data.Modeles;
 
 namespace WebApplication2.Data.Interfaces
 {
-    interface ICarsCategory
+    public interface ICarsCategory
     {
         IEnumerable<Category> IAllCategories { get; }
     }

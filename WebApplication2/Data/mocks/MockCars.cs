@@ -53,8 +53,8 @@ namespace WebApplication2.Data.mocks
             }
 
         }
-        public IEnumerable<Cars> getFavCar { get; set; }
-        public Cars getObjectCars(int carId)
+        public IEnumerable<Cars> getFavCars { get; set; }
+        public Cars getObject(int carId)
         {
             throw new NotImplementedException();
         } 

@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplication2.Data.Interfaces;
 using WebApplication2.Data.Modeles;
 
 namespace WebApplication2.Data.mocks
 {
-    public class MockCategory
+    public class MockCategory: ICarsCategory
     {
-        public IEnumerable<Category> AllCategories
+        public IEnumerable<Category> IAllCategories
         {
             get
             {

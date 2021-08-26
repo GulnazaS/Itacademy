@@ -1,0 +1,6 @@
+C:\Users\Gulnaz\source\repos\WebApplication2\WebApplication2\obj\Release\net5.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Gulnaz\source\repos\WebApplication2\WebApplication2\obj\Release\net5.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulnaz\source\repos\WebApplication2\WebApplication2\obj\Release\net5.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Gulnaz\source\repos\WebApplication2\WebApplication2\obj\Release\net5.0\WebApplication2.AssemblyInfo.cs
+C:\Users\Gulnaz\source\repos\WebApplication2\WebApplication2\obj\Release\net5.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Gulnaz\source\repos\WebApplication2\WebApplication2\obj\Release\net5.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
